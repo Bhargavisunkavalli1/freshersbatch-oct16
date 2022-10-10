@@ -6,6 +6,6 @@ alert('Hello world');
 </script>
 </head>
 <body>
-<p> hello every one</p>
+<p> hello! every one.</p>
 </body>
 </html>
