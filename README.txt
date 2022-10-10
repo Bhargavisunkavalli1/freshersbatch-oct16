@@ -10,4 +10,5 @@ ASSIGNMENTS
     This file consists of all the information about all assignments.
     Assignments file consists of 1.HTML assignments
                                  2.CSS assignments
+                         3.JS assignments
 >>>>>>> css-assignments
